@@ -15,7 +15,7 @@ The objective of this study is to extract DVD rental database analysis in a Jupy
 
 [Question_2](https://github.com/Stella-Ho/Assessment_Python_DVDRental/tree/63e3f65700182c1710e77eba18556f54c85a6ef8/Question_02)
 
-[Question_3](https://github.com/Stella-Ho/Assessment_Python_DVDRental/tree/84990197332fb213c31d599f231127c2f65f660d/Question_03)
+[Question_3](https://github.com/Stella-Ho/Assessment_Python_DVDRental/tree/63e3f65700182c1710e77eba18556f54c85a6ef8/Question_03)
 
 [Question_4](https://github.com/Stella-Ho/Assessment_Python_DVDRental/tree/84990197332fb213c31d599f231127c2f65f660d/Question_04)
 
